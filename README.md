@@ -22,4 +22,4 @@ Pull requestler kabul edilir. Bütyük değişiklikler için, lütfen önce neyi
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![](https://github.com/meinnameistiman/kodluyoruzilkrepo/blob/main/screen.png)
+![](https://github.com/meinnameistiman/kodluyoruzilkrepo/blob/main/screen.PNG)
